@@ -1,0 +1,15 @@
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\bin\Debug\P1-FileHandling.exe.config
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\bin\Debug\P1-FileHandling.exe
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\bin\Debug\P1-FileHandling.pdb
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\P1-FileHandling.csproj.AssemblyReference.cache
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\MainWindow.g.cs
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\App.g.cs
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\P1-FileHandling_MarkupCompile.cache
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\MainWindow.baml
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\P1-FileHandling.g.resources
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\P1_FileHandling.Properties.Resources.resources
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\P1-FileHandling.csproj.GenerateResource.cache
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\P1-FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\P1-FileHandling.exe
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\P1-FileHandling.pdb
+C:\Users\PGYSW023\source\repos\P1-FileHandling\P1-FileHandling\obj\Debug\P1-FileHandling_MarkupCompile.lref
