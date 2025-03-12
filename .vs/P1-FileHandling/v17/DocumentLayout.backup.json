@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PGYSW023\\source\\repos\\P1-FileHandling\\P1-FileHandling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C12DB0E-39C8-4D27-8436-EB88DFA742D9}|P1-FileHandling.csproj|c:\\users\\pgysw023\\source\\repos\\p1-filehandling\\p1-filehandling\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3C12DB0E-39C8-4D27-8436-EB88DFA742D9}|P1-FileHandling.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3C12DB0E-39C8-4D27-8436-EB88DFA742D9}|P1-FileHandling.csproj|C:\\Users\\PGYSW023\\source\\repos\\P1-FileHandling\\P1-FileHandling\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C12DB0E-39C8-4D27-8436-EB88DFA742D9}|P1-FileHandling.csproj|solutionrelative:MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C12DB0E-39C8-4D27-8436-EB88DFA742D9}|P1-FileHandling.csproj|c:\\users\\pgysw023\\source\\repos\\p1-filehandling\\p1-filehandling\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C12DB0E-39C8-4D27-8436-EB88DFA742D9}|P1-FileHandling.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,12 +26,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PGYSW023\\source\\repos\\P1-FileHandling\\P1-FileHandling\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PGYSW023\\source\\repos\\P1-FileHandling\\P1-FileHandling\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:10:23.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\PGYSW023\\source\\repos\\P1-FileHandling\\P1-FileHandling\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\PGYSW023\\source\\repos\\P1-FileHandling\\P1-FileHandling\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PGYSW023\\source\\repos\\P1-FileHandling\\P1-FileHandling\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-12T09:09:00.197Z",
               "EditorCaption": ""

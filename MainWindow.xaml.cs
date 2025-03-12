@@ -76,7 +76,10 @@ namespace P1_FileHandling
             }
         }
 
-       
+        private void mulTxt_TextChanged_1(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 
     }

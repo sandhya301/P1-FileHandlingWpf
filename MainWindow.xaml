@@ -6,13 +6,21 @@
         xmlns:local="clr-namespace:P1_FileHandling"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="400">
-    <StackPanel>
-        <Label FontWeight="Bold">Enter multiple lines of text</Label>
-        <TextBox x:Name="mulTxt" TextWrapping="Wrap" Margin="10,0,10,0" AcceptsReturn="True" TextChanged="mulTxt_TextChanged"></TextBox>
-        <Button x:Name="saveTxt" Click="saveTxt_Click" Width="150" Margin="10,10,0,0">Save</Button>
-        <Button x:Name="DispalyTxt" Click="DispalyTxt_Click" Width="150" Margin="10,10,0,0">Display</Button>
-        <Label Content="File Contents:" FontWeight="Bold"/>
-        <TextBlock x:Name="txtOutput" Width="300" Height="100" TextWrapping="Wrap"/>
+    <StackPanel Margin="20">
+        <Label FontWeight="Bold" FontSize="14" Foreground="#333">Enter multiple lines of text</Label>
+
+        <TextBox x:Name="mulTxt" TextWrapping="Wrap" AcceptsReturn="True" 
+                 Margin="0,5,0,10" Padding="5" Background="White" TextChanged="mulTxt_TextChanged"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5,0,10">
+            <Button x:Name="saveTxt" Click="saveTxt_Click" Width="150" Margin="5"
+                    Background="#4CAF50" Foreground="White" FontWeight="Bold">Save</Button>
+            <Button x:Name="DispalyTxt" Click="DispalyTxt_Click" Width="150" Margin="5"
+                    Background="#2196F3" Foreground="White" FontWeight="Bold">Display</Button>
+        </StackPanel>
+
+        <Label Content="File Contents:" FontWeight="Bold" FontSize="14" Foreground="#333"></Label>
+        <TextBlock x:Name="txtOutput" Width="380" Height="100" TextWrapping="Wrap" Padding="5"
+                   Background="White" VerticalAlignment="Top"/>
         
     </StackPanel>
 </Window>
