@@ -16,9 +16,6 @@ using System.IO;
 
 namespace P1_FileHandling
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         string path = @"C:\Users\PGYSW023\Desktop\output.txt";
